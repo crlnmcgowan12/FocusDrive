@@ -18,3 +18,4 @@ This project was developed with the help of **ChatGPT** for coding guidance, opt
 1. Clone the repository:
    ```sh
    git clone https://github.com/crlnmcgowan12/FocusDriveAI.git
+   replit link (includes depositories and installs): https://replit.com/join/hdklibjcmn-cmcgowan11
